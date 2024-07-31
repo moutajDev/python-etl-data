@@ -1,0 +1,15 @@
+2024-
+-31-13:20:45 : Initializing ETL
+2024-
+-31-13:20:46 : Extraction concluded
+2024-
+-31-13:20:46 : Loading Data
+2024-
+-31-13:20:46 : Data saved as CSV
+Data saved as JSON
+2024-
+-31-13:21:34 : Initializing ETL
+2024-
+-31-13:21:35 : Extraction concluded
+2024-
+-31-13:21:35 : Loading Data
