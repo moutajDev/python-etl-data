@@ -52,14 +52,6 @@ def load_to_csv(df, csv_path):
     df.to_csv(csv_path)
 
 
-'''
-Load the file into a json
-'''
-
-
-def load_to_json(df, json_path):
-    df.to_json(json_path)
-
 
 '''
 Function responsible for the logging

@@ -1,4 +1,4 @@
-from etl_project_gdp import extract_from_web, transform, load_to_csv, log, load_to_json
+from etl_project_gdp import extract_from_web, transform, load_to_csv, log
 
 '''
 1 - URL
@@ -24,6 +24,3 @@ if __name__ == '__main__':
 
     log('Loading Data')
     df = load_to_csv(df, csv_path)
-
-    log('Data saved as CSV''\n' 'Data saved as JSON')
-    df = load_to_json(df, json_path)
